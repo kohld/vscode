@@ -1,1 +1,1 @@
-# vscode
+# Personal settings for Visual Studio Code
